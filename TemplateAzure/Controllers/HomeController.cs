@@ -28,7 +28,12 @@ namespace TemplateAzure.Controllers
             return View();
         }
 
-        public IActionResult restr()
+        public IActionResult restr1test()
+        {
+            return View();
+        }
+
+        public IActionResult restr1t()
         {
             return View();
         }
